@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin version="0.1">
+    <title xml:lang="ko">CKEditor XpressEditor 스킨</title>
+    <description xml:lang="ko">CKEditor XpressEditor skin</description>
+    <version>1.0.0</version>
+    <date>2015-02-24</date>
+
+    <author email_address="developers@xpressengine.com" link="https://www.xpressengine.com">
+        <name xml:lang="ko">NAVER</name>
+    </author>
+    <author email_address="yjsoft@yjsoft.pe.kr" link="http://yjsoft.pe.kr">
+        <name xml:lang="ko">YJSoft</name>
+    </author>
+    
+    <colorset>
+        <color name="xpress_white">
+            <title xml:lang="ko">XpressEditor White</title>
+        </color>
+        <color name="xpress_black">
+            <title xml:lang="ko">XpressEditor Dark</title>
+        </color>
+    </colorset>
+</skin>
