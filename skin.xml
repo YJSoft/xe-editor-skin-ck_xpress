@@ -2,8 +2,8 @@
 <skin version="0.1">
     <title xml:lang="ko">CKEditor XpressEditor 스킨</title>
     <description xml:lang="ko">CKEditor XpressEditor skin</description>
-    <version>1.0.0</version>
-    <date>2015-02-24</date>
+    <version>1.0.1</version>
+    <date>2015-04-17</date>
 
     <author email_address="developers@xpressengine.com" link="https://www.xpressengine.com">
         <name xml:lang="ko">NAVER</name>
